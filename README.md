@@ -1,4 +1,4 @@
-# Vibe coding some image grid scripts
+# Vibe coding some throwaway image manipulation scripts
 
 ![Grid example](examples/grid-11x2.png)
 
