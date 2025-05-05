@@ -74,7 +74,7 @@ So I read the docs and half-way fixed it myself, sort of. Good enough for now. P
 
 The big thing I came away from this project thinking about, though, wasn't code gen capabilities. It was that this shouldn't have been a programming project at all. I can think of two much more natural ways to do this kind of image manipulation.
 
-One, I could have just asked Photoshop to do this for me. "Hey, Photoshop, here's a workflow I'm imagining. Do it once. If I like the result, we'll do it a bunch of times."
+One, I could have just asked Photoshop to do this for me. "Hey, Photoshop, here's a workflow I'm imagining. Do it once. Maybe we'll need to iterate together on it. Once I like the result, we'll do it a bunch of times and save it as something we can come back to later."
 
 Or, I could just ask the Universal LLM Chat App That We May Soon Do All Our Work Inside to do this for me. The LLM can write code. The LLM can manipulate filesystem-like entities. The LLM can call out to tools. The inference environment or the application environment or both can include scaffolding that runs code.
 
